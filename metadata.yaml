@@ -1,11 +1,14 @@
 _repo: Paivan-koittaessa-Novelli_62392
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Koidu ajal. Finnish
 contributor:
   translator:
     agent_name: Laitio, Ape
     gutenberg_agent_id: '51931'
     url: http://www.gutenberg.org/2009/agents/51931
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vilde, Eduard
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eduard_Vilde
     - https://fi.wikipedia.org/wiki/Eduard_Vilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62392#Paivan-koittaessa-Novelli
 gutenberg_issued: '2020-06-14'
 gutenberg_type: Text
 identifiers:
