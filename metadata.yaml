@@ -1,0 +1,34 @@
+_repo: Paivan-koittaessa-Novelli_62392
+_version: 0.0.1
+alternative_title: Koidu ajal. Finnish
+contributor:
+  translator:
+    agent_name: Laitio, Ape
+    gutenberg_agent_id: '51931'
+    url: http://www.gutenberg.org/2009/agents/51931
+creator:
+  author:
+    agent_name: Vilde, Eduard
+    alias: Wilde, Eduard
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '49853'
+    url: http://www.gutenberg.org/2009/agents/49853
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eduard_Vilde
+    - https://fi.wikipedia.org/wiki/Eduard_Vilde
+description: ''
+gutenberg_issued: '2020-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62392'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Estonian fiction -- Translations into Finnish'
+- !lcc 'PH'
+- GITenberg
+title: 'Päivän koittaessa: Novelli'
+url: http://www.gutenberg.org/ebooks/62392
